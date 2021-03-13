@@ -8,7 +8,7 @@ Thomas Schökler
 
 ## Notes
 
-The original purpose of this script was to set text styles globally (the default settings turn every first tier of every grid italic) but it can be used for any global insertion or removal of strings.
+The original purpose of this script was to set text styles globally (e.g the default settings turn every first tier of every grid italic) but it can be used for any global insertion or removal of strings.
 
 All TextGrids in the current selection will be affected. Other selected objects will be ignored.
 
